@@ -1,0 +1,27 @@
+{
+  "name": "express_site",
+  "version": "1.0.0",
+  "description": "A website create floow nodeandexpress",
+  "main": "expresssite.js",
+  "scripts": {
+    "test": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cherswang/expresssite.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "cherswang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherswang/expresssite/issues"
+  },
+  "homepage": "https://github.com/cherswang/expresssite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
